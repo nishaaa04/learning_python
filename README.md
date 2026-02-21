@@ -7,11 +7,11 @@ Welcome to my Python learning journey!
 This repository contains all my Python practice programs as I learn step by step.
 
 ## 📚 Topics I am learning:
-- Variables  
-- Input and Output  
-- If-else statements  
-- Loops  
-- Functions (basics)
+- hello world and print statement 
+- escape sequence 
+- datatypes  
+- 
+- 
 
 ## 🎯 Purpose:
 I created this repository to:
