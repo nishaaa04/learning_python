@@ -10,7 +10,7 @@ This repository contains all my Python practice programs as I learn step by step
 - hello world and print statement 
 - escape sequence 
 - datatypes  
-- 
+- operators
 - 
 
 ## 🎯 Purpose:
