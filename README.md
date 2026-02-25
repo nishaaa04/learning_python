@@ -12,6 +12,7 @@ This repository contains all my Python practice programs as I learn step by step
 - datatypes  
 - operators
 - swapping
+- string replication
 
 ## 🎯 Purpose:
 I created this repository to:
