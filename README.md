@@ -13,6 +13,8 @@ This repository contains all my Python practice programs as I learn step by step
 - operators
 - swapping
 - string replication
+- user input
+- statements
 
 ## 🎯 Purpose:
 I created this repository to:
