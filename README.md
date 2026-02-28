@@ -14,8 +14,8 @@ This repository contains all my Python practice programs as I learn step by step
 - swapping
 - string replication
 - user input
-- statements
 - unit digit
+- statements
 
 ## 🎯 Purpose:
 I created this repository to:
