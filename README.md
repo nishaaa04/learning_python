@@ -15,6 +15,7 @@ This repository contains all my Python practice programs as I learn step by step
 - string replication
 - user input
 - statements
+- unit digit
 
 ## 🎯 Purpose:
 I created this repository to:
