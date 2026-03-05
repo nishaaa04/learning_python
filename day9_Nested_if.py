@@ -1,5 +1,5 @@
 #Nested if statement
-'''age = int(input("Enter your age:"))
+age = int(input("Enter your age:"))
 eats_pizza = True
 exercise = False
 if(age < 30):
@@ -32,7 +32,7 @@ print("Even"if num % 2==0 else "odd")
 
 #Example2
 age = int(input("Enter your age:"))
-print("Child"if (age < 18) else"Adult")'''
+print("Child"if (age < 18) else"Adult")
 
 #Quiz
 age = int(input("Enter your age:"))
@@ -46,4 +46,16 @@ elif(age >= 18) and (age <= 25):
         message = "You are eligible for a regular discount."
 else:
     message = "You are eligible for a regular discount."
+
 print(message)
+
+#ODD or EVEN
+num = int(input("Enter  a number:"))
+if(num%2==0):
+    print(num, "is an even number")
+else:
+    print(num, "is a odd number")
+
+#now using Ternary operator
+num = int(input("Enter a number:"))
+print(num,"is an even number"if(num % 2 == 0) else "is a odd number")
