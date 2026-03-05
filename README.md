@@ -17,6 +17,7 @@ This repository contains all my Python practice programs as I learn step by step
 - unit digit
 - statements
 - nested if
+- iterative statement
 
 ## 🎯 Purpose:
 I created this repository to:
